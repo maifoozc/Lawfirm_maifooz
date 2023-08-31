@@ -1,0 +1,48 @@
+.intro {
+  padding: 2rem 15rem;
+}
+
+.vertical-line {
+  width: 1px;
+  height: 10rem;
+  background-color: #ccc;
+  margin: 0 10px;
+}
+
+.criminal_class {
+  width: 20rem;
+  text-align: left;
+  word-wrap: break-word;
+}
+.card-section {
+  color: #fff;
+  background-color: #111111;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 12rem;
+  gap: 1rem;
+}
+.card-img {
+  width: 6rem;
+}
+.card {
+  color: #fff;
+  background-color: #111111;
+  max-width: 22rem;
+  text-align: left;
+  border: solid 1px #fff;
+  padding: 0.8rem;
+  border-radius: 1rem;
+}
+.card-head{
+  color: #fff;
+  background-color: #111111;
+}
+
+.card_btn {
+  color: #111111;
+  background-color: #e3b748;
+  text-transform: none;
+  margin-top: 0.5rem;
+  border-radius: 2rem;
+}

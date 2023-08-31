@@ -1,0 +1,35 @@
+.clients_section {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 12rem;
+}
+
+.clients_card {
+  background-color: #121212;
+  color: #fff;
+}
+.clients_card:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+  background-color: #2e2e2e;
+}
+
+.navigate_button {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 12rem;
+}
+
+.team-card {
+  background-color: #121212;
+  color: #fff;
+  width: 20rem;
+  padding: 2rem 0;
+  display: flex;
+  justify-content: start;
+  border-radius: 1rem;
+}
+.team-card:hover {
+  background-color: yellow;
+  color: #121212;
+}
